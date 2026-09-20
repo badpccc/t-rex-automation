@@ -1,5 +1,3 @@
-A Python automation bot for the Chrome Dino game using PyAutoGUI.
-
 # Features
 
 - Mouse position tracking
